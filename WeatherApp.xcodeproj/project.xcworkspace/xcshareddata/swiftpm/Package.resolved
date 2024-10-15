@@ -1,0 +1,15 @@
+{
+  "originHash" : "18698984893a07324f1da407b138a8c56a1e995e65912e3ee4fd4b4f127bca3b",
+  "pins" : [
+    {
+      "identity" : "purelayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PureLayout/PureLayout.git",
+      "state" : {
+        "revision" : "5561683c96dc49b023c1299bfe4f6fbeed5f8199",
+        "version" : "3.1.9"
+      }
+    }
+  ],
+  "version" : 3
+}
